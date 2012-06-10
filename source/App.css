@@ -1,10 +1,30 @@
 /*
-	Put anything you reference with "url()" in ../assets/
-	This way, you can minify your application, and just remove the "source" folder for production
-*/
 #app {
-	margin: 16px;
-	border-radius: 4px;
+	margin: 0px;
+	border-radius: 0px;
 	background-color: silver;
 	padding: 16px;
 }
+*/
+
+/*
+.panels {
+    height: 100%;
+    width: 100%;
+    min-height: 320px;
+    min-width: 320px;
+    display: inline-block;
+    margin: 30px;
+    border: 10px solid orange;
+}
+
+.panels > * {
+    border: 8px solid #333;
+    font-size: 5em;
+    text-align: center;
+}
+
+.wide > * {
+    min-width: 50%;
+}
+*/
