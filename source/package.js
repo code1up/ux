@@ -4,5 +4,6 @@ enyo.depends(
     "App.css",
 	"PanelUx.js",
     "SlideableUx.js",
-	"MoSlideableUx.js"
+	"MoSlideableUx.js",
+    "CollapsibleUx.js"
 );

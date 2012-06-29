@@ -24,10 +24,10 @@
 
 		that.$.panels.setIndex(_index);
 		// that.$.calendar.hide();
-	}
+	};
 
     var _toolbar = {
-    	name: "toolbar",
+		name: "toolbar",
 		kind: "onyx.Toolbar",
 
 		components: [
@@ -51,7 +51,7 @@
 				content: "2",
 				tap: _goto
 			}
-		],
+		]
     };
 
 	var _panels = {
@@ -92,7 +92,7 @@
 					{
 						name: "timeHeader",
 						content: "TIME HEADER",
-						style: "background-color: blue;",
+						style: "background-color: blue;"
 						// style: "background-color: blue; min-height: 48px; max-height: 48px;",
 					},
 					{
